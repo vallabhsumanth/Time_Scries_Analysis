@@ -1,2 +1,2 @@
-# Time_Scries_Analysis
- Time Scries Analysis Using ARIMA(Autoregressive Moving Average)
+# Time series analysis with ARIMA
+Simple python example on how to use ARIMA models to analyze and predict time series.
